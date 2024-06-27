@@ -1,5 +1,18 @@
 # About me.
 ## I'm a full-stack developer.
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| C#        |
+|     3| Python    |
+|     4| SQL       |
+|     5| CSS       |
+|     6| Dart      |
+|     7| Java      |
+|     8| TypeScript|
+|     9| C/C++     |
+|    10| Others    |
+
 - 🔭 I’m currently working on flutter/dart projects.
 - ⚡ I'm trying to do full-stack using dart to have a complete single codebase.
 <!--
