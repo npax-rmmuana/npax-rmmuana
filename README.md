@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# About me.
+## I'm a full-stack developer.
+- 🔭 I’m currently working on flutter/dart projects.
+- ⚡ I'm trying to do full-stack using dart to have a complete single codebase.
 <!--
 **npax-rmmuana/npax-rmmuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
